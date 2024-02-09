@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/assets/car.png</file>
+        <file>ui/assets/lock.png</file>
+        <file>ui/assets/unlock.png</file>
+        <file>ui/RightScreen/Navigationbar.qml</file>
+        <file>ui/assets/search.png</file>
+        <file>ui/BottomBar/HVACComponent.qml</file>
+        <file>ui/BottomBar/VolumeControlComponent.qml</file>
+        <file>ui/assets/volume1.png</file>
+        <file>ui/assets/volume2.png</file>
+        <file>ui/assets/volume3.png</file>
+        <file>ui/assets/mute.png</file>
+        <file>ui/assets/telephone.png</file>
+        <file>ui/assets/menu.png</file>
+        <file>ui/BottomBar/CarSettingRight.qml</file>
+        <file>ui/BottomBar/CarSettingLeft.qml</file>
+        <file>ui/assets/calendar.png</file>
+        <file>ui/assets/music.png</file>
+        <file>ui/assets/media.png</file>
+        <file>ui/assets/profile.png</file>
+        <file>ui/assets/connections.png</file>
+        <file>ui/assets/teslacar2.png</file>
+        <file>ui/assets/bolt.png</file>
+        <file>ui/assets/control.png</file>
+        <file>ui/assets/pdt.png</file>
+        <file>ui/assets/chrg.png</file>
+        <file>ui/assets/auto.png</file>
+        <file>ui/assets/light.png</file>
+        <file>ui/assets/lock1.png</file>
+        <file>ui/assets/trip.png</file>
+        <file>ui/assets/navigation.png</file>
+        <file>ui/assets/safety.png</file>
+        <file>ui/assets/service.png</file>
+        <file>ui/assets/system.png</file>
+    </qresource>
+</RCC>

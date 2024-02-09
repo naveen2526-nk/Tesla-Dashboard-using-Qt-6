@@ -1,0 +1,13 @@
+release/audiocontroller.o
+release/carsettings.o
+release/ftopen.o
+release/hvachandler.o
+release/system.o
+release/main.o
+release/qrc_qml.o
+release/qrc_qmake_resources.o
+release/moc_audiocontroller.o
+release/moc_carsettings.o
+release/moc_ftopen.o
+release/moc_hvachandler.o
+release/moc_system.o

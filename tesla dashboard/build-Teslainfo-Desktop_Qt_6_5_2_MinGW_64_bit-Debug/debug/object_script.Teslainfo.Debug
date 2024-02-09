@@ -1,0 +1,13 @@
+debug/audiocontroller.o
+debug/carsettings.o
+debug/ftopen.o
+debug/hvachandler.o
+debug/system.o
+debug/main.o
+debug/qrc_qml.o
+debug/qrc_qmake_resources.o
+debug/moc_audiocontroller.o
+debug/moc_carsettings.o
+debug/moc_ftopen.o
+debug/moc_hvachandler.o
+debug/moc_system.o
